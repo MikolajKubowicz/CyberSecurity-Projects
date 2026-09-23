@@ -4,7 +4,7 @@ A collection of my cybersecurity, networking, and information assurance projects
 
 ## Network Security
 
-- [Cisco Packet Tracer – Static Routing Lab](PASTE-YOUR-GITHUB-REPO-LINK-HERE)
+- [Cisco Packet Tracer – Static Routing Lab](https://github.com/MikolajKubowicz/cisco_packet_tracer_static_routing_lab---NETWORK-SECURITY)
 
 ## Telecom / Network Security Practicum
 
