@@ -9,6 +9,7 @@ A collection of my cybersecurity, networking, and information assurance projects
 ## Telecom / Network Security Practicum
 
 - [Cisco Modeling Labs – Virtual Network Setup Lab](https://github.com/MikolajKubowicz/NET379-Cisco-CML-Lab1)
+- [Cisco Modeling Labs – RIPv2 Dynamic Routing Lab](https://github.com/MikolajKubowicz/NET379-Lab2-RIPv2)
 
 ## Host Based Security
 
